@@ -1,7 +1,7 @@
 # 👋 Vuero
 > Multipurpose Vue 3 Admin and Webapp UI Kit built by [cssninjaStudio](https://cssninja.io) and [Digisquad](https://digisquad.io).
 
-[![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=joins%20us%20on%20discord&color=6944EC)](https://discord.cssninja.io/)
+[![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=join%20us%20on%20discord&color=6944EC)](https://discord.cssninja.io/)
 
 ![Screenshot](https://media.cssninja.io/products/vuero/product.png "Vuero")
 
